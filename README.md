@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Neil-Uchiha
+- 👀 I’m interested in anything related to web/app dev and want to explore more
+- 🌱 I’m currently learning cpp, javascript and react
+- 📫 How to reach me, mail at greatdreamblue4545@gmail.com
